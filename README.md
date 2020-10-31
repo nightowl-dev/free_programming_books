@@ -37,16 +37,16 @@ To add new sub content, please use the format below, then add the list using the
 ### Flutter
 
 * [Cookbook](https://flutter.dev/docs/cookbook)
-
 * [Flutter Succinctly, Syncfusion](https://www.syncfusion.com/ebooks/flutter-succinctly) (PDF, Kindle) (email address *requested*, not required)
-
+* [Flutter Tutorial](https://www.tutorialspoint.com/flutter/flutter_tutorial.pdf) - tutorialspoint
   
 
 ### Go
 
 * [An Introduction to Programming in Go](http://www.golang-book.com)
-
 * [Effective Go](https://golang.org/doc/effective_go.html)
+* [GO Bootcamp](http://www.golangbootcamp.com/book) - Matt Aimonetti
+* [The Go Tutorial](https://tour.golang.org/)
 
   
 
@@ -65,3 +65,11 @@ To add new sub content, please use the format below, then add the list using the
 ### Python
 
 * [A Beginner's Python Tutorial](https://en.wikibooks.org/wiki/A_Beginner%27s_Python_Tutorial) - Wikibooks
+
+### Android
+
+* [Android Developer Fundamentals](https://developer.android.com/courses/fundamentals-training/toc-v2) - Codelab
+* [Android Developer Fundamentals](https://google-developer-training.github.io/android-developer-fundamentals-course-concepts-v2/index.html) - Concepts
+* [Android Track](https://www.youtube.com/playlist?list=PLhQjrBD2T381qULidYDKP55-4u1piASC1)
+* [Learn how to program: Andoid](https://www.learnhowtoprogram.com/android) - Epicodus
+* [Android Programming Cookbook](https://enos.itcollege.ee/~jpoial/allalaadimised/reading/Android-Programming-Cookbook.pdf)
