@@ -53,18 +53,27 @@ To add new sub content, please use the format below, then add the list using the
 ### PHP
 
 * [PHP Programming](https://en.wikibooks.org/wiki/PHP_Programming) - Wikibooks
-
+* [PHP 5 Power of Programming](https://ptgmedia.pearsoncmg.com/images/013147149X/downloads/013147149X_book.pdf)
+* [PHP Best Practices](https://phpbestpractices.org)
+* [PHP Security Guide](http://phpsec.org/projects/guide/)
+* [PHP: The Right Way](https://phptherightway.com/)
   
 
 ### JavaScript
 
 * [The JavaScript Tutorial](http://javascript.info)
+* [JavaScript Bible](https://media.wiley.com/product_ancillary/28/07645334/DOWNLOAD/all.pdf)
+* [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
+* [Book of Modern Frontend Tooling](https://github.com/tooling/book-of-modern-frontend-tooling)
 
   
 
 ### Python
 
 * [A Beginner's Python Tutorial](https://en.wikibooks.org/wiki/A_Beginner%27s_Python_Tutorial) - Wikibooks
+* [Dive into Python](http://www.diveintopython.net/)
+* [Google Python Class](https://developers.google.com/edu/python/)
+* [Biopython](http://biopython.org/DIST/docs/tutorial/Tutorial.pdf)
 
 ### Android
 
@@ -73,3 +82,16 @@ To add new sub content, please use the format below, then add the list using the
 * [Android Track](https://www.youtube.com/playlist?list=PLhQjrBD2T381qULidYDKP55-4u1piASC1)
 * [Learn how to program: Andoid](https://www.learnhowtoprogram.com/android) - Epicodus
 * [Android Programming Cookbook](https://enos.itcollege.ee/~jpoial/allalaadimised/reading/Android-Programming-Cookbook.pdf)
+
+### Scala
+
+* [EAI Patterns with Actor Model](https://github.com/alexanderfefelov/eai-patterns-with-actor-model)
+* [Pro Scala: Monadic Design Patterns for the Web](https://github.com/leithaus/XTrace/tree/monadic/src/main/book/content/)
+* [Learning Scalaz](https://eed3si9n.com/learning-scalaz/)
+* [Effective Scala](http://twitter.github.io/effectivescala/)
+
+### Docker
+
+* [Docker](https://www.youtube.com/playlist?list=PLhW3qG5bs-L99pQsZ74f-LC-tOEsBp2rK)
+* [Docker Tutorial](https://www.tutorialspoint.com/docker/index.htm)
+* [Docker Tutorial for Begginers](https://www.youtube.com/watch?v=fqMOX6JJhGo)
